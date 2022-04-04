@@ -1,0 +1,17 @@
+.fondo{
+    background-color: blue;
+} 
+
+/*Si el nombre contiene un punto corresponde y se llama como una clase*/
+.color{
+    color: white;
+}
+
+/*Si el nombre contiene un gato corresponde y se llama como un ID*/
+#caja{
+    width: 300px;
+    border: 15px solid green;
+    padding: 20px;
+    margin: 20px;
+}
+
